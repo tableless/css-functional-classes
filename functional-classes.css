@@ -70,7 +70,7 @@ table.txtRight td, table.txtRight th {text-align: right;}
 .vAlignBottomImportant {vertical-align: bottom  !important;}
 
 /** 
-*** BACKGROUND E BORDA
+*** BACKGROUND, BORDA E OUTLINE
 **/
 .noBackground {background: none !important;}
 .noShadow {box-shadow: none !important;}
@@ -80,6 +80,8 @@ table.txtRight td, table.txtRight th {text-align: right;}
 .noBorderLeft {border-left: none !important;}
 .noBorderBottom {border-bottom: none !important;}
 .noBorderTop {border-top: none !important;}
+
+.noOutline {outline:none !important;}
 
 .noBullet, .noListStyle {list-style: none !important;}
 
